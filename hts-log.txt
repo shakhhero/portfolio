@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Jun 2024 03:01:45 at https://www.rammaheshwari.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.rammaheshwari.com/ -O1 "C:\My Web Sites\portfolio-fantastic" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:02:04	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/hkirvl5pqs5cjjawh11xutnzjgtg9tfi.js (from https://www.rammaheshwari.com/)
+03:02:04	Warning: 	Warning: store application/octet-stream without scan: C:/My Web Sites/portfolio-fantastic/www.rammaheshwari.com/assets/svg/common-bg.svg
+03:02:04	Warning: 	Retry after error -5 (error:00000001:lib(0):func(0):reason(1)) at link https://code.tidio.co:443/hkirvl5pqs5cjjawh11xutnzjgtg9tfi.js (from https://www.rammaheshwari.com/)
+03:02:05	Error: 	"error:00000001:lib(0):func(0):reason(1)" (-5) after 2 retries at link https://code.tidio.co:443/hkirvl5pqs5cjjawh11xutnzjgtg9tfi.js (from https://www.rammaheshwari.com/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 30 links scanned, 26 files written (1110888 bytes overall) [1068069 bytes received at 53403 bytes/sec], 71992 bytes transferred using HTTP compression in 8 files, ratio 23%
+(1 errors, 3 warnings, 0 messages)
